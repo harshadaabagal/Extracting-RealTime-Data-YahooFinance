@@ -26,3 +26,7 @@ To extract information from this HTML document using Python, you need to parse t
 
 
 Overall, this project is organized into separate Python files, each responsible for extracting stock details from a specific category. The central "Extraction" file contains all the necessary functions, while the other files make use of these functions to extract the desired data.
+
+
+![stockScapper](https://github.com/harshadaabagal/Extracting-RealTime-Data-YahooFinance/assets/43906676/49557118-e384-4702-9e16-70a0728fce19)
+
